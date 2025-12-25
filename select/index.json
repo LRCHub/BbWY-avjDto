@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Danza Kuduro feat． Lucenzo",
+  "base_artist": "Don Omar",
+  "createdAt": "2025-12-25T13:16:48.803448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "DonOmarVEVO",
+      "has_synced": true,
+      "path": "select/01_Danza_Kuduro_(feat._Lucenzo)_DonOmarVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/02_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/03_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/04_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Danza Kuduro (Feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/05_Danza_Kuduro_(Feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Danza Kuduro Feat Lucenzo",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/06_Danza_Kuduro_Feat_Lucenzo_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/07_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Song, Don Omar",
+      "has_synced": true,
+      "path": "select/08_Danza_Kuduro_(feat._Lucenzo)_Song,_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/09_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/10_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/11_Danza_Kuduro_(feat._Lucenzo)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Danza Kuduro (feat. Lucenzo)",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/12_Danza_Kuduro_(feat._Lucenzo)_Don_Omar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Danza Kuduro Feat Lucenzo",
+      "artist": "Don Omar",
+      "has_synced": false,
+      "path": "select/pl_01_Danza_Kuduro_Feat_Lucenzo_Don_Omar.txt"
+    }
+  ]
+}
